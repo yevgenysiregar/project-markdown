@@ -11,10 +11,10 @@ This is the descrption of [yevgenysiregar.com](https://yevgenysiregar.com)
 
 ## Screenshots
 
-![Home](images/yevgenysiregar.com-Home.png)
+![Home](images/yevgenysiregar.com-home.png)
 
-![About](images/yevgenysiregar.com-About.png)
+![About](images/yevgenysiregar.com-about.png)
 
-![Contact](images/yevgenysiregar.com-Contact.png)
+![Contact](images/yevgenysiregar.com-contact.png)
 
-![Blog](images/yevgenysiregar.com-Blog.png)
+![Blog](images/yevgenysiregar.com-blog.png)
